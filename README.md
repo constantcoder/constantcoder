@@ -1,16 +1,16 @@
+![GitHub Profile Banner](https://github.com/constantcoder/constantcoder/blob/master/images/cc-github-banner.jpg)
+
 ### Hi there 👋
+#### I'm Constant Coder. I'm a software engineer that lives in JavaScript and the JAMStack
 
-<!--
-**constantcoder/constantcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on anything related to the JAMStack
+- 🌱 I’m currently learning Rust
+- 💬 Ask me about whatevs
+- ⚡ Fun fact: I love playing guitar, eating burgers, reading spy novels, and watching trash tv
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+  - Twitter ![twitter](https://twitter.com/CoderConstant).
+  - Website ![website](https://www.constantcoder.io)
+
+> I'm going to fix this place up real nice, but I just wanted to get something up. You know how it goes.
